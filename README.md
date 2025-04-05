@@ -39,3 +39,16 @@ Harvard Dataverse, Version 3
 
   - The public data
 ---
+## Setup Instructions
+
+### 1. Data
+
+- `data.csv` should be placed in the `data/` folder. It contains the coordinates of hole locations across different sections of the Antikythera calendar ring.
+
+### 2. Install Required Packages
+
+Make sure you're using **Python 3.10 or higher**. Then install dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
