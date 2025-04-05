@@ -52,3 +52,7 @@ Make sure you're using **Python 3.10 or higher**. Then install dependencies usin
 ```bash
 pip install -r requirements.txt
 ```
+
+## Acknowledgments
+
+- This project was originally developed as part of a graduate-level advanced statistical method course at the University of Cambridge.
