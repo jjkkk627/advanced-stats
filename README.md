@@ -35,7 +35,7 @@ This project applies Hamiltonian Monte Carlo (HMC) to infer the number and arran
 [3] Thoeni, Budiselic & Ramsey,  
 **Replication Data for: Antikythera Mechanism Shows Evidence of Lunar Calendar**,  
 Harvard Dataverse, Version 3  
-[https://doi.org/10.7910/DVN/VJGLV](https://doi.org/10.7910/DVN/VJGLV)
+[https://doi.org/10.7910/DVN/VJGLVS](https://doi.org/10.7910/DVN/VJGLVS)
 
   - The public data
 ---
