@@ -1,6 +1,7 @@
 # Bayesian Inference of the Antikythera Mechanism
 
 This project applies Hamiltonian Monte Carlo (HMC) to infer the number and arrangement of holes in the calendar ring of the Antikythera mechanism—an ancient Greek astronomical calculator dated to ~100 BC. The aim is to understand whether the mechanism was based on a **solar (365-hole)** or **lunar (354-hole)** calendar by modeling X-ray data of surviving fragments.
+
 ---
 
 ## Summary
@@ -19,7 +20,7 @@ This project applies Hamiltonian Monte Carlo (HMC) to infer the number and arran
 - Public X-ray data and measured hole coordinates were provided by Thoeni et al. (see Reference [3])
 - Data file include:
     - Measured hole posistions
-
+---
 ## References
 
 [1] Budiselic, Thoeni, Dubno & Ramsey,  
